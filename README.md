@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&color=FF6A00&center=true&width=700&lines=DEXHACKER" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=FF6A00&center=true&width=700&lines=Android+Reverse+Engineering+%26+Vulnerability+Research" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=FF6A00&center=true&width=620&lines=Mobile+Security+%26+Exploit+Development" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=FF6A00&center=true&vCenter=true&width=500&lines=Android+Reverse+Engineering;Mobile+Security+%26+Exploit+Development;Co-Founder+%40RootAccess" alt="Typing SVG" />
+</div>
 
 <br>
 
