@@ -38,7 +38,7 @@ Currently working through structured RE labs and documenting the process publicl
 
 🔍 Working through structured Android RE labs
 
-✍️ Publishing writeups on http://dev.to as I complete each milestone
+✍️ Publishing writeups on http://dev.to soon as I complete each milestone
 
 🎯 Hunting bugs workflow 
 
